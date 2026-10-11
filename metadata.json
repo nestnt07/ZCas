@@ -1,0 +1,6 @@
+{
+  "name": "AutoMaster B: DRPCIV Romania & Tactical Chess Driver Academy",
+  "description": "Comprehensive DRPCIV Category B Romania driver license exam platform combining official DGPCI question formats, interactive priority intersections, CIA accelerated learning protocols (Gateway Process & Locus retention), and Chess Grandmaster tactical cognitive drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
